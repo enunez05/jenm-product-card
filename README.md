@@ -1,8 +1,9 @@
-# JENM-Product-Card
+# JENM-Testing-NPM-Publish
 
-Este es un paquete de pruebas de despliegue en NPM
+Testing version to npm Package 
+Don't use this packag, Its for testing to publish to npm
 
-### Jesus Eduardo Nuñez Marquez - Jenson
+### ENUNEZ05 - Jenson
 
 ## Ejemplo
 ```

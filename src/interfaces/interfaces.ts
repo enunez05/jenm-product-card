@@ -9,7 +9,6 @@ export interface Product {
 	img?: string,
 	value?: number
 }
-
 export interface ProductContextProps {
 	counter:number,
 	increaseBy: (value:number)=> void,
