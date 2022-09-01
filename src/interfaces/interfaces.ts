@@ -6,8 +6,8 @@ import { Props as ProductTitleProps } from "../components/ProductTitle";
 export interface Product {
 	id:number,
 	title:string,
-	img?:string,
-	value?:number
+	img?: string,
+	value?: number
 }
 
 export interface ProductContextProps {
