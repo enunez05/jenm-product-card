@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Debe de mostrar el componente con el src del producto 1`] = `
+<img
+  alt="Coffe Mug"
+  className="productImg undefined"
+  src="./coffee-mug.png"
+/>
+`;
+
+exports[`ProductImage Debe de mostrar el componente padre con el componente imagen con la imagen 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Coffe Mug"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
